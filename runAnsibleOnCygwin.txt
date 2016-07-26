@@ -1,0 +1,1 @@
+http://www.jeffgeerling.com/blog/running-ansible-within-windows
